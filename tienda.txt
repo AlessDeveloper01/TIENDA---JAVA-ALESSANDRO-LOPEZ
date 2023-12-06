@@ -1,0 +1,4 @@
+Jabon Foca;33.0;4
+Jabon Velrosita;24.99;2
+Cafe Nescafe;28.0;16
+Cafe Los Portales;30.0;1
